@@ -4,11 +4,28 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d7033bf0-c01a-4182-aefb-a4e1d54f95e0" name="Changes" comment="" />
+    <list default="true" id="d7033bf0-c01a-4182-aefb-a4e1d54f95e0" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/lang/string/CharArrayMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lang/string/StringBasicMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lang/string/StringConcatMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lang/string/StringEqualsMain2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lang/string/StringEqualsdMain1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lang/string/StringImmutable1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lang/string/StringImmutable2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
@@ -27,11 +44,12 @@
   <component name="GithubPullRequestsUISettings">{
   &quot;selectedUrlAndAccountId&quot;: {
     &quot;url&quot;: &quot;https://github.com/rnjswlgns444/java-mid-my.git&quot;,
-    &quot;accountId&quot;: &quot;bc0377f9-759f-4ae3-912f-887a55ed4fbd&quot;
+    &quot;accountId&quot;: &quot;7bc57bcb-715f-469a-899b-8b9aed5bbf2c&quot;
   }
 }</component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/src/LangMain.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/lang/string/StringBasicMain.java" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;customColor&quot;: &quot;&quot;,
@@ -44,6 +62,11 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.CharArrayMain.executor": "Run",
+    "Application.StringBasicMain.executor": "Run",
+    "Application.StringEqualsMain2.executor": "Run",
+    "Application.StringEqualsdMain1.executor": "Run",
+    "Application.StringImmutable1.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
@@ -51,6 +74,87 @@
     "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="lang.string" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.StringImmutable1">
+    <configuration name="CharArrayMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lang.string.CharArrayMain" />
+      <module name="java-mid-my" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lang.string.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StringBasicMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lang.string.StringBasicMain" />
+      <module name="java-mid-my" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lang.string.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StringEqualsMain2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lang.string.StringEqualsMain2" />
+      <module name="java-mid-my" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lang.string.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StringEqualsdMain1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lang.string.StringEqualsdMain1" />
+      <module name="java-mid-my" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lang.string.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StringImmutable1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lang.string.StringImmutable1" />
+      <module name="java-mid-my" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lang.string.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.StringImmutable1" />
+        <item itemvalue="Application.StringEqualsMain2" />
+        <item itemvalue="Application.StringEqualsdMain1" />
+        <item itemvalue="Application.StringBasicMain" />
+        <item itemvalue="Application.CharArrayMain" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
