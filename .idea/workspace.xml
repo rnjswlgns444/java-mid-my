@@ -5,15 +5,57 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d7033bf0-c01a-4182-aefb-a4e1d54f95e0" name="Changes" comment="new">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lang/string/method/StringComparisonMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lang/string/method/StringInfoMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lang/string/method/StringSearchMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/enumeration/ex0/DiscountService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/enumeration/ex0/StringGradeEx0_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/enumeration/ex1/DiscountService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/enumeration/ex1/StringGrade.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/enumeration/ex1/StringGradeEx1_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/enumeration/ex2/ClassGrade.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/enumeration/ex2/ClassGradeEx2_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/enumeration/ex2/ClassRefMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/enumeration/ex2/DiscountService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/enumeration/ex3/ClassGradeEx3_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/enumeration/ex3/DiscountService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/enumeration/ex3/EumRefMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/enumeration/ex3/Grade.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lang/Mynote.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lang/clazz/ClassCreateMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lang/clazz/ClassMetaMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lang/clazz/Hello.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lang/math/MathMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lang/math/RandomMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lang/string/builder/LoopStringBuilderMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lang/string/builder/LoopStringMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lang/string/builder/StringBuilderMain1_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lang/string/method/StringChangeMain1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lang/string/method/StringChangedMain2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lang/string/method/StringSplitJoinMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lang/string/method/StringUtilsMain1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lang/string/method/StringUtilsMain2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lang/string/test/TestString1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lang/string/test/TestString10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lang/string/test/TestString2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lang/string/test/TestString3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lang/string/test/TestString4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lang/string/test/TestString5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lang/string/test/TestString6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lang/string/test/TestString7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lang/string/test/TestString8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lang/string/test/TestString9.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lang/system/SystemMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lang/wrapper/AutoboxingMain1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lang/wrapper/AutoboxingMain2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lang/wrapper/MyInteger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lang/wrapper/MyIntegerMethodmain1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lang/wrapper/MyIntegerNullMain0.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lang/wrapper/MyIntegerNullMain1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lang/wrapper/WrapperClassMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lang/wrapper/WrapperUtilsMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lang/wrapper/test/WrapperTest1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lang/wrapper/test/WrapperTest2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lang/wrapper/test/WrapperTest3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lang/wrapper/test/WrapperTest4.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lang/string/StringEqualsMain2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lang/string/equals/StringEqualsMain2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lang/string/StringEqualsdMain1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lang/string/equals/StringEqualsdMain1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lang/string/StringImmutable1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lang/string/immutable/StringImmutable1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lang/string/StringImmutable2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lang/string/immutable/StringImmutable2.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,6 +65,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Enum" />
         <option value="Class" />
       </list>
     </option>
@@ -62,14 +105,52 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.AutoboxingMain1.executor": "Run",
+    "Application.AutoboxingMain2.executor": "Run",
     "Application.CharArrayMain.executor": "Run",
+    "Application.ClassCreateMain.executor": "Run",
+    "Application.ClassGradeEx2_1.executor": "Run",
+    "Application.ClassGradeEx3_1.executor": "Run",
+    "Application.ClassRefMain.executor": "Run",
+    "Application.EumRefMain.executor": "Run",
+    "Application.LoopStringBuilderMain.executor": "Run",
+    "Application.LoopStringMain.executor": "Run",
+    "Application.MathMain.executor": "Run",
+    "Application.MyIntegerMethodmain1.executor": "Run",
+    "Application.MyIntegerNullMain0.executor": "Run",
+    "Application.MyIntegerNullMain1.executor": "Run",
+    "Application.RandomMain.executor": "Run",
     "Application.StringBasicMain.executor": "Run",
+    "Application.StringBuilderMain1_1.executor": "Run",
+    "Application.StringChangeMain1.executor": "Run",
+    "Application.StringChangedMain2.executor": "Run",
     "Application.StringComparisonMain.executor": "Run",
     "Application.StringEqualsMain2.executor": "Run",
     "Application.StringEqualsdMain1.executor": "Run",
+    "Application.StringGradeEx0_1.executor": "Run",
+    "Application.StringGradeEx1_1.executor": "Run",
     "Application.StringImmutable1.executor": "Run",
     "Application.StringInfoMain.executor": "Run",
     "Application.StringSearchMain.executor": "Run",
+    "Application.StringSplitJoinMain.executor": "Run",
+    "Application.StringUtilsMain1.executor": "Run",
+    "Application.StringUtilsMain2.executor": "Run",
+    "Application.SystemMain.executor": "Run",
+    "Application.TestString1.executor": "Run",
+    "Application.TestString10.executor": "Run",
+    "Application.TestString2.executor": "Run",
+    "Application.TestString3.executor": "Run",
+    "Application.TestString4.executor": "Run",
+    "Application.TestString5.executor": "Run",
+    "Application.TestString6.executor": "Run",
+    "Application.TestString7.executor": "Run",
+    "Application.TestString8.executor": "Run",
+    "Application.TestString9.executor": "Run",
+    "Application.WrapperTest1.executor": "Run",
+    "Application.WrapperTest2.executor": "Run",
+    "Application.WrapperTest3.executor": "Run",
+    "Application.WrapperTest4.executor": "Run",
+    "Application.WrapperUtilsMain.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "main",
@@ -80,16 +161,20 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="enumeration.ex3" />
+      <recent name="enumeration.ex1" />
+      <recent name="lang.wrapper" />
+      <recent name="lang.string.builder" />
       <recent name="lang.string" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.StringSearchMain">
-    <configuration name="StringComparisonMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lang.string.method.StringComparisonMain" />
+  <component name="RunManager" selected="Application.ClassGradeEx3_1">
+    <configuration name="ClassGradeEx2_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="enumeration.ex2.ClassGradeEx2_1" />
       <module name="java-mid-my" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lang.string.method.*" />
+          <option name="PATTERN" value="enumeration.ex2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -97,12 +182,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StringEqualsMain2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lang.string.equals.StringEqualsMain2" />
+    <configuration name="ClassGradeEx3_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="enumeration.ex3.ClassGradeEx3_1" />
       <module name="java-mid-my" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lang.string.equals.*" />
+          <option name="PATTERN" value="enumeration.ex3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -110,12 +195,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StringImmutable1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lang.string.immutable.StringImmutable1" />
+    <configuration name="ClassRefMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="enumeration.ex2.ClassRefMain" />
       <module name="java-mid-my" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lang.string.equals.*" />
+          <option name="PATTERN" value="enumeration.ex2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -123,12 +208,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StringInfoMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lang.string.method.StringInfoMain" />
+    <configuration name="EumRefMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="enumeration.ex3.EumRefMain" />
       <module name="java-mid-my" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lang.string.method.*" />
+          <option name="PATTERN" value="enumeration.ex3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -136,12 +221,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StringSearchMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lang.string.method.StringSearchMain" />
+    <configuration name="StringGradeEx1_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="enumeration.ex1.StringGradeEx1_1" />
       <module name="java-mid-my" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lang.string.method.*" />
+          <option name="PATTERN" value="enumeration.ex1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -151,11 +236,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.StringSearchMain" />
-        <item itemvalue="Application.StringComparisonMain" />
-        <item itemvalue="Application.StringInfoMain" />
-        <item itemvalue="Application.StringImmutable1" />
-        <item itemvalue="Application.StringEqualsMain2" />
+        <item itemvalue="Application.ClassGradeEx3_1" />
+        <item itemvalue="Application.EumRefMain" />
+        <item itemvalue="Application.ClassGradeEx2_1" />
+        <item itemvalue="Application.ClassRefMain" />
+        <item itemvalue="Application.StringGradeEx1_1" />
       </list>
     </recent_temporary>
   </component>
@@ -192,7 +277,15 @@
       <option name="project" value="LOCAL" />
       <updated>1723199422944</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="new">
+      <option name="closed" value="true" />
+      <created>1723206740416</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1723206740416</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
