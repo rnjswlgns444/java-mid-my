@@ -5,57 +5,112 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d7033bf0-c01a-4182-aefb-a4e1d54f95e0" name="Changes" comment="new">
-      <change afterPath="$PROJECT_DIR$/src/enumeration/ex0/DiscountService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/enumeration/ex0/StringGradeEx0_1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/enumeration/ex1/DiscountService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/enumeration/ex1/StringGrade.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/enumeration/ex1/StringGradeEx1_1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/enumeration/ex2/ClassGrade.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/enumeration/ex2/ClassGradeEx2_1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/enumeration/ex2/ClassRefMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/enumeration/ex2/DiscountService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/enumeration/ex3/ClassGradeEx3_1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/enumeration/ex3/DiscountService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/enumeration/ex3/EumRefMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/enumeration/ex3/Grade.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lang/Mynote.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lang/clazz/ClassCreateMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lang/clazz/ClassMetaMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lang/clazz/Hello.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lang/math/MathMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lang/math/RandomMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lang/string/builder/LoopStringBuilderMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lang/string/builder/LoopStringMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lang/string/builder/StringBuilderMain1_1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lang/string/method/StringChangeMain1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lang/string/method/StringChangedMain2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lang/string/method/StringSplitJoinMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lang/string/method/StringUtilsMain1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lang/string/method/StringUtilsMain2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lang/string/test/TestString1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lang/string/test/TestString10.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lang/string/test/TestString2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lang/string/test/TestString3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lang/string/test/TestString4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lang/string/test/TestString5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lang/string/test/TestString6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lang/string/test/TestString7.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lang/string/test/TestString8.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lang/string/test/TestString9.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lang/system/SystemMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lang/wrapper/AutoboxingMain1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lang/wrapper/AutoboxingMain2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lang/wrapper/MyInteger.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lang/wrapper/MyIntegerMethodmain1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lang/wrapper/MyIntegerNullMain0.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lang/wrapper/MyIntegerNullMain1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lang/wrapper/WrapperClassMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lang/wrapper/WrapperUtilsMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lang/wrapper/test/WrapperTest1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lang/wrapper/test/WrapperTest2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lang/wrapper/test/WrapperTest3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lang/wrapper/test/WrapperTest4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/enumeration/basic/checked/CheckedCatchMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/enumeration/basic/checked/CheckedThrowMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/enumeration/basic/checked/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/enumeration/basic/checked/MycheckedException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/enumeration/basic/checked/Service.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/enumeration/basic/unchecked/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/enumeration/basic/unchecked/MyUncheckedException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/enumeration/basic/unchecked/Service.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/enumeration/basic/unchecked/UnCheckedCatchMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/enumeration/basic/unchecked/UncheckedThrowMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/enumeration/ex3/EnumMethodMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/enumeration/ref1/ClassGrade.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/enumeration/ref1/ClassGradeRefMain1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/enumeration/ref1/DiscountService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/enumeration/ref2/ClassGradeRefMain2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/enumeration/ref2/DiscountService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/enumeration/ref2/Grade.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/enumeration/ref3/ClassGradeRefMain3_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/enumeration/ref3/ClassGradeRefMain3_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/enumeration/ref3/DiscountService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/enumeration/ref3/Grade.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/enumeration/test/AuthGrade.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/enumeration/test/AuthGradeMain1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/enumeration/test/AuthGradeMain2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/enumeration/test/http/HttpStatus.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/enumeration/test/http/HttpStatusMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exception/ex0/MainV0.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exception/ex0/NetworkClientV0.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exception/ex0/NetworkServiceV0.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exception/ex1/MainV1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exception/ex1/NetworkClientV1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exception/ex1/NetworkServiceV1_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exception/ex1/NetworkServiceV1_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exception/ex1/NetworkServiceV1_3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exception/ex2/MainV2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exception/ex2/NetworkClientExceptionV2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exception/ex2/NetworkClientV2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exception/ex2/NetworkServiceV2_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exception/ex2/NetworkServiceV2_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exception/ex2/NetworkServiceV2_3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exception/ex2/NetworkServiceV2_4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exception/ex2/NetworkServiceV2_5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exception/ex3/MainV3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exception/ex3/NetworkClientV3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exception/ex3/NetworkServiceV3_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exception/ex3/exception/ConnectExceptionV3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exception/ex3/exception/NetworkClientExceptionV3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exception/ex3/exception/SendExceptionV3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nested/annonymous/AnonymousOuter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nested/annonymous/Ex0Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nested/annonymous/ex/Ex1Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nested/annonymous/ex/Ex1RefMainV1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nested/annonymous/ex/Ex1RefMainV2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nested/annonymous/ex/Ex1RefMainV3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nested/annonymous/ex/Ex1RefMainV4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nested/annonymous/ex/Ex1RefMainV5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nested/annonymous/ex/Process.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nested/nested/NestedOuter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nested/nested/NestedOuterMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nested/nested/ex1/Network.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nested/nested/ex1/NetworkMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nested/nested/ex1/NetworkMessage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nested/nested/ex2/Network.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nested/nested/ex2/NetworkMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nested/nested/inner/InnerOuter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nested/nested/inner/InnerOuterMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nested/nested/inner/ex1/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nested/nested/inner/ex1/CarMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nested/nested/inner/ex1/Engine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nested/nested/inner/ex2/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nested/nested/inner/ex2/CarMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nested/nested/local/LocalOuterV1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nested/nested/local/LocalOuterV2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nested/nested/local/LocalOuterV3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nested/nested/local/LocalOuterV4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nested/nested/local/Printer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nested/test/AnonymousMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nested/test/Hello.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nested/test/OuterClass1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nested/test/OuterClass1Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nested/test/OuterClass2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nested/test/OuterClass2Mian.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nested/test/OuterClass3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nested/test/OuterClass3Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nested/test/ex1/Library.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/nested/test/ex1/LibraryMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/time/ChangeTimePlusMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/time/ChangeTimeWithMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/time/ChronoUnitMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/time/FormattingMain1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/time/GetTimeMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/time/InstantMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/time/LocalDateMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/time/LocalDateTimeMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/time/LocalTimeMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/time/ZoneIdMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/time/test/TestAdjusters.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/time/test/TestBetween.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/time/test/TestCalendarPrinter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/time/test/TestLoopPlus.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/time/test/TestPlus.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/enumeration/ex3/DiscountService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/enumeration/ex3/DiscountService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/enumeration/ex3/EumRefMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/enumeration/ex3/EnumRefMain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/enumeration/ex3/Grade.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/enumeration/ex3/Grade.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lang/Mynote.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lang/Mynote.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -66,6 +121,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Enum" />
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -105,20 +161,59 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.AnonymousMain.executor": "Run",
+    "Application.AnonymousOuter.executor": "Run",
+    "Application.AuthGradeMain1.executor": "Run",
+    "Application.AuthGradeMain2.executor": "Run",
     "Application.AutoboxingMain1.executor": "Run",
     "Application.AutoboxingMain2.executor": "Run",
+    "Application.CarMain.executor": "Run",
+    "Application.ChangeTimeWithMain.executor": "Run",
     "Application.CharArrayMain.executor": "Run",
+    "Application.CheckedCatchMain.executor": "Run",
+    "Application.CheckedThrowMain.executor": "Run",
+    "Application.ChronoUnitMain.executor": "Run",
     "Application.ClassCreateMain.executor": "Run",
     "Application.ClassGradeEx2_1.executor": "Run",
     "Application.ClassGradeEx3_1.executor": "Run",
+    "Application.ClassGradeRefMain1.executor": "Run",
+    "Application.ClassGradeRefMain2.executor": "Run",
+    "Application.ClassGradeRefMain3_2.executor": "Run",
     "Application.ClassRefMain.executor": "Run",
+    "Application.EnumMethodMain.executor": "Run",
     "Application.EumRefMain.executor": "Run",
+    "Application.Ex0Main.executor": "Run",
+    "Application.Ex1Main.executor": "Run",
+    "Application.Ex1RefMainV1.executor": "Run",
+    "Application.Ex1RefMainV3.executor": "Run",
+    "Application.Ex1RefMainV4.executor": "Run",
+    "Application.Ex1RefMainV5.executor": "Run",
+    "Application.FormattingMain1.executor": "Run",
+    "Application.GetTimeMain.executor": "Run",
+    "Application.HttpStatusMain.executor": "Run",
+    "Application.InnerOuterMain.executor": "Run",
+    "Application.InstantMain.executor": "Run",
+    "Application.LibraryMain.executor": "Run",
+    "Application.LocalDateMain.executor": "Run",
+    "Application.LocalDateTimeMain.executor": "Run",
+    "Application.LocalOuterV1 (1).executor": "Run",
+    "Application.LocalOuterV1.executor": "Run",
+    "Application.LocalOuterV2.executor": "Run",
+    "Application.LocalOuterV3.executor": "Run",
+    "Application.LocalTimeMain.executor": "Run",
     "Application.LoopStringBuilderMain.executor": "Run",
     "Application.LoopStringMain.executor": "Run",
+    "Application.MainV0.executor": "Run",
+    "Application.MainV1.executor": "Run",
+    "Application.MainV2.executor": "Run",
+    "Application.MainV3.executor": "Run",
     "Application.MathMain.executor": "Run",
     "Application.MyIntegerMethodmain1.executor": "Run",
     "Application.MyIntegerNullMain0.executor": "Run",
     "Application.MyIntegerNullMain1.executor": "Run",
+    "Application.NestedOuterMain.executor": "Run",
+    "Application.OuterClass3Main.executor": "Run",
+    "Application.OuterClassMain1.executor": "Run",
     "Application.RandomMain.executor": "Run",
     "Application.StringBasicMain.executor": "Run",
     "Application.StringBuilderMain1_1.executor": "Run",
@@ -136,6 +231,11 @@
     "Application.StringUtilsMain1.executor": "Run",
     "Application.StringUtilsMain2.executor": "Run",
     "Application.SystemMain.executor": "Run",
+    "Application.TestAdjusters.executor": "Run",
+    "Application.TestBetween.executor": "Run",
+    "Application.TestCalendarPrinter.executor": "Run",
+    "Application.TestLoopPlus.executor": "Run",
+    "Application.TestPlus.executor": "Run",
     "Application.TestString1.executor": "Run",
     "Application.TestString10.executor": "Run",
     "Application.TestString2.executor": "Run",
@@ -146,11 +246,15 @@
     "Application.TestString7.executor": "Run",
     "Application.TestString8.executor": "Run",
     "Application.TestString9.executor": "Run",
+    "Application.UnCheckedCatchMain.executor": "Run",
+    "Application.UncheckedThrowMain.executor": "Run",
     "Application.WrapperTest1.executor": "Run",
     "Application.WrapperTest2.executor": "Run",
     "Application.WrapperTest3.executor": "Run",
     "Application.WrapperTest4.executor": "Run",
     "Application.WrapperUtilsMain.executor": "Run",
+    "Application.ZoneIdMain.executor": "Run",
+    "Application.nested.nested.inner.ex2.CarMain.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "main",
@@ -160,21 +264,24 @@
   }
 }]]></component>
   <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="time.test" />
+    </key>
     <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="enumeration.ex3" />
-      <recent name="enumeration.ex1" />
-      <recent name="lang.wrapper" />
-      <recent name="lang.string.builder" />
-      <recent name="lang.string" />
+      <recent name="exception.ex3" />
+      <recent name="exception.ex2" />
+      <recent name="exception.ex1" />
+      <recent name="nested.annonymous.ex" />
+      <recent name="nested.annonymous" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ClassGradeEx3_1">
-    <configuration name="ClassGradeEx2_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="enumeration.ex2.ClassGradeEx2_1" />
+  <component name="RunManager" selected="Application.MainV3">
+    <configuration name="CheckedThrowMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="enumeration.basic.checked.CheckedThrowMain" />
       <module name="java-mid-my" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="enumeration.ex2.*" />
+          <option name="PATTERN" value="enumeration.basic.checked.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -182,12 +289,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ClassGradeEx3_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="enumeration.ex3.ClassGradeEx3_1" />
+    <configuration name="MainV2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="exception.ex2.MainV2" />
       <module name="java-mid-my" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="enumeration.ex3.*" />
+          <option name="PATTERN" value="exception.ex2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -195,12 +302,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ClassRefMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="enumeration.ex2.ClassRefMain" />
+    <configuration name="MainV3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="exception.ex3.MainV3" />
       <module name="java-mid-my" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="enumeration.ex2.*" />
+          <option name="PATTERN" value="exception.ex3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -208,12 +315,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="EumRefMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="enumeration.ex3.EumRefMain" />
+    <configuration name="UnCheckedCatchMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="enumeration.basic.unchecked.UnCheckedCatchMain" />
       <module name="java-mid-my" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="enumeration.ex3.*" />
+          <option name="PATTERN" value="enumeration.basic.unchecked.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -221,12 +328,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StringGradeEx1_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="enumeration.ex1.StringGradeEx1_1" />
+    <configuration name="UncheckedThrowMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="enumeration.basic.unchecked.UncheckedThrowMain" />
       <module name="java-mid-my" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="enumeration.ex1.*" />
+          <option name="PATTERN" value="enumeration.basic.unchecked.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -236,11 +343,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ClassGradeEx3_1" />
-        <item itemvalue="Application.EumRefMain" />
-        <item itemvalue="Application.ClassGradeEx2_1" />
-        <item itemvalue="Application.ClassRefMain" />
-        <item itemvalue="Application.StringGradeEx1_1" />
+        <item itemvalue="Application.MainV3" />
+        <item itemvalue="Application.MainV2" />
+        <item itemvalue="Application.UncheckedThrowMain" />
+        <item itemvalue="Application.UnCheckedCatchMain" />
+        <item itemvalue="Application.CheckedThrowMain" />
       </list>
     </recent_temporary>
   </component>
@@ -285,7 +392,15 @@
       <option name="project" value="LOCAL" />
       <updated>1723206740416</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="new">
+      <option name="closed" value="true" />
+      <created>1724482036932</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1724482036932</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

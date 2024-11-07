@@ -6,13 +6,13 @@ public class DiscountService {
 
     int discountPercent = 0;
 
-    public int discount(Grade classGrade, int price) {
+    public int discount(Grade grade, int price) {
 
-        if (classGrade == Grade.BASIC) { //static import를 쓰면 그냥 BASIC이라고 쓸 수 있음.
+        if (grade == Grade.BASIC) { //static import를 쓰면 그냥 BASIC이라고 쓸 수 있음.
             discountPercent = 10;
-        } else if (classGrade == Grade.GOLD) {
+        } else if (grade == Grade.GOLD) {
             discountPercent = 20;
-        } else if (classGrade == Grade.DIAMOND) {
+        } else if (grade == Grade.DIAMOND) {
             discountPercent = 30;
         } else {
             System.out.println("할인 X");

@@ -13,12 +13,14 @@ public class Mynote {
      * Alt + enter: 오류 수정 | 기능 추가..?
      * Ctrl + B | Ctrl + 마우스 클릭 : 해당 클래스 들어가기
      * Ctrl + Alt + ← : (클래스에서 들어온 이후) 이전 클래스로 돌아가기
+     * Ctrl + Alt + N : (이미 객체?를 정의 해 놓은 상태) 객체를 합치는 경우(굳이 정의를 따로 할 필요가 없어서 합치고 싶을 때)
      * */
 
     /*단축어 정리
     * sout: System.out.println() 생성
     * soutv: System.out.println() 생성해주는데 안에 출력할 내용을 적어줌
     * psvm: public static void main(String[] args) 생성
+    * get: get 메서드 생성
     * */
 
 }
