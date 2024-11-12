@@ -14,7 +14,6 @@ public class NetworkServiceV3_1 {
         try { //정상흐름
             client.connect();
             client.send(data);
-            client.disconnect();
 
         } catch (ConnectExceptionV3 e) {
             System.out.println("[연결 오류] 주소: " + e.getAddress() + " , 메세지: " + e.getMessage());

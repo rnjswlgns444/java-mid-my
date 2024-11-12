@@ -1,33 +1,33 @@
-package exception.ex3;
+package exception.ex4;
 
 
-import exception.ex3.exception.ConnectExceptionV3;
-import exception.ex3.exception.SendExceptionV3;
+import exception.ex4.exception.ConnectExceptionV4;
+import exception.ex4.exception.SendExceptionV4;
 
-public class NetworkClientV3 {
+public class NetworkClientV5 implements AutoCloseable{
 
     private final String address;
     public boolean connectError;
     public boolean sendError;
 
 
-    public NetworkClientV3(String address) {
+    public NetworkClientV5(String address) {
         this.address = address;
     }
 
-    public void connect() throws ConnectExceptionV3 { //반환값을 던질 필요가 없으니까 void로 설정.
+    public void connect()  { //반환값을 던질 필요가 없으니까 void로 설정.
 
         if (connectError) {
-            throw new ConnectExceptionV3(address, address + " 서버 연결 실패");
+            throw new ConnectExceptionV4(address, address + " 서버 연결 실패");
         }
         //연결 성공
         System.out.println(address + " 서버 연결 성공");
     }
 
-    public void send(String data) throws SendExceptionV3 {
+    public void send(String data)  {
 
         if (sendError) {
-            throw new SendExceptionV3(data, address + " 서버에 더이터 전송 실패");
+            throw new SendExceptionV4(data, address + " 서버에 더이터 전송 실패");
 //            throw new RuntimeException("ex");  //RumtimeException (알 수 없는 오류 부르기 위해 작성)
         }
 
@@ -50,4 +50,9 @@ public class NetworkClientV3 {
         }
     }
 
+    @Override
+    public void close() {
+        System.out.println("NetworkClientV5.close");
+        disconnect();
+    }
 }
